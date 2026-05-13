@@ -20,7 +20,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# roma_test
-# second comment
-# third comment
