@@ -1,7 +1,7 @@
 from django.conf import settings
 from django.db import models
 
-
+ 
 class Project(models.Model):
     # Проект создаёт один пользователь.
     # Работать над ним может вся команда.
